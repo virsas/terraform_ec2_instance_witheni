@@ -4,9 +4,9 @@ Terraform module to create EC2 instance with elastic network interface
 
 ## Dependencies
 
-SSHKEY <https://github.com/virsas/terraform_ec2_sshkey>
-ENI <https://github.com/virsas/terraform_ec2_eni>
-IAM ROLE <https://github.com/virsas/terraform_iam_role>
+- SSHKEY <https://github.com/virsas/terraform_ec2_sshkey>
+- ENI <https://github.com/virsas/terraform_ec2_eni>
+- IAM ROLE <https://github.com/virsas/terraform_iam_role>
 
 ## Terraform example
 
